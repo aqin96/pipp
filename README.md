@@ -1,8 +1,5 @@
-# Project 1 Blondev Team
-Aplikasi Admin Sanitasi 
-Ainul Yaqin
-Ari Kurniawan Saputra
-Eman Glory
+# Skripsi Sumanto
+Aplikasi Monitoring Hasil Ikan Tangkap
 
 Online version 
-http://gascoding.id/web_sanitasi/
+http://gascoding.id/pipp/
